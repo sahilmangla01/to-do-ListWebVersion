@@ -8,13 +8,13 @@ span{
 .top_container{
     width: 100%;
     height: 50px;
-    padding: 10px;
+    padding: 10px 0;
     box-shadow: 1px 1px 5px rgb(227, 224, 224) ;
 }
 .title{
     background-color: #FFFFFF;
     width: fit-content;
-    
+    display: inline-block;
     position: relative;
     left: 230px;
     bottom: 20px;
